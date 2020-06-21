@@ -5,7 +5,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 ## Traits
 * a lot
 
-##Likes
+## Likes
 * Music
 * Cookies
 * more Cookies
