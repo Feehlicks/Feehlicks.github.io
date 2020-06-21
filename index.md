@@ -16,3 +16,6 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 see how he speaks:
 > It's one thing to have a cookie,
 > but its something different to have two.
+
+## how... he looks :D
+<img src="13037547103_2af2804875_z.jpg" />
